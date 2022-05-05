@@ -1,4 +1,4 @@
 
 # Hey, I am Pradhumna Pancholi.
 
-I am Web 3 builder. I spend my time writng secure smart contracts, building dApps, contirbuting to Ethereum (with Ethereum Cat Headers), and building things at BanklessDAO.
+A polyglot developer with a passion for decentralized products and regenerative economics.
