@@ -3,7 +3,7 @@
 
 A polyglot developer with a passion for decentralized products and regenerative economics.  
 
-[Twitter] (https://twitter.com/knowpradhumna) | [Hackernoon] (https://hackernoon.com/u/pnpancholi) 
+[Twitter](https://twitter.com/knowpradhumna) | [Hackernoon](https://hackernoon.com/u/pnpancholi) 
 
 ## I spend my time :
 
