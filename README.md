@@ -9,4 +9,4 @@ A polyglot developer with a passion for decentralized products and regenerative 
 
 1. Writing secure smart contracts.
 2. Learning about regenerative economics.
-3. Contributing to [BanklessDAO] (https://github.com/BanklessDAO)
+3. Contributing to [BanklessDAO](https://github.com/BanklessDAO)
