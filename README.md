@@ -1,5 +1,5 @@
 
-# Hey, I am Pradhumna Pancholi.
+# Pradhumna Pancholi.
 
 A polyglot developer with a passion for building robust and elegant solutions 
 
